@@ -1,0 +1,21 @@
+85|2016-08-02|Tuesday|88°F|70°F|Sunny
+86|2016-07-15|Friday|97°F|74°F|Intense Sun
+69|2016-08-04|Thursday|78°F|61°F|Rainy
+73|2016-08-03|Wednesday|82°F|64°F|Thunderstorms
+73|2016-08-06|Saturday|81°F|66°F|Partly Cloudy
+90|2016-07-13|Wednesday|101°F|78°F|Scorching Sun
+26|2016-12-16|Friday|37°F|14°F|Partly Cloudy
+90|2016-07-12|Tuesday|102°F|77°F|Extreme Heat
+88|2016-07-11|Monday|100°F|76°F|Heatwave
+24|2016-12-15|Thursday|35°F|13°F|Cold and Windy
+71|2016-08-05|Friday|79°F|63°F|Mostly Cloudy
+73|2016-08-07|Sunday|84°F|68°F|Sunny
+85|2016-08-01|Monday|85°F|68°F|Partly Cloudy
+28|2016-12-10|Saturday|40°F|15°F|Snowy
+86|2016-07-10|Sunday|98°F|75°F|Hot and Sunny
+21|2016-12-14|Wednesday|32°F|10°F|Snow Showers
+23|2016-12-12|Monday|36°F|9°F|Freezing Rain
+25|2016-12-11|Sunday|38°F|12°F|Blizzard
+69|2016-07-14|Thursday|99°F|76°F|Hot and Clear
+21|2016-12-13|Tuesday|34°F|8°F|Icy Conditions
+85|2016-07-16|Saturday|96°F|73°F|Clear Skies
