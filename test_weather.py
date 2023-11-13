@@ -1,9 +1,3 @@
-'''
-Abdirizak Duale
-CS302
-08-26-2023
-The file has all the declarations and implementation for the pytest of my hierarchy functions
-'''
 from weather import forecast 
 from weather import happy 
 from weather import lazy

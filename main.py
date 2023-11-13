@@ -1,9 +1,3 @@
-'''
-Abdirizak Duale
-CS302
-08-26-2023
-This has my is the file I run when I want to test my code, I kept main minimal
-'''
 from interface import user
 from interface import weather_app 
 from interface import application 

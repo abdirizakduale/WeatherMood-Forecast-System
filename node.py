@@ -1,9 +1,3 @@
-'''
-Abdirizak Duale
-CS302
-08-26-2023
-This file has all the declartions and implementations of all of my AVL balanced tree implementation
-'''
 
 # AVL node class
 class AVLNode:

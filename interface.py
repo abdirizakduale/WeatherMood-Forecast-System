@@ -1,10 +1,3 @@
-'''
-Abdirizak Duale
-CS302
-08-26-2023
-The file has all the declarations and implementation for my applications including the applications class, 
-weather app class that has my run functions, and the User class
-'''
 from weather import forecast
 from weather import happy 
 from weather import lazy 

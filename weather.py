@@ -1,9 +1,3 @@
-'''
-Abdirizak Duale
-CS302
-08-26-2023
-The file has all the declarations and implementation for my hierarchy including the applications class that has my run functions 
-'''
 from node import AVL
 import numpy as np
 import pdb
