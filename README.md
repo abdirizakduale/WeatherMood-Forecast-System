@@ -35,12 +35,12 @@ The WeatherMood Forecast System is a Python application that combines weather fo
   python main.py
   ```
 
-  ## Dependencies
+## Dependencies
   - Python 3.x
   - `numpy` for numerical operations
   - `pytest` for running test
 
-  ## Testing
+## Testing
   - Run tests using  `pytest`
     ```shell
     pytest test_weather.py
